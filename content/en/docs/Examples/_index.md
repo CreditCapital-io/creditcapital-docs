@@ -2,16 +2,9 @@
 ---
 title: "Examples"
 linkTitle: "Examples"
-weight: 3
-date: 2017-01-05
+weight: 20
 description: >
-  See your project in action!
+  This folder should contain 3-5 examples of how users will use this platform
 ---
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-Do you have any example **applications** or **code** for your users in your repo or elsewhere? Link to your examples here.
-
-
+## Use Examples 
+This folder will contain examples or use cases for CreditCapital
